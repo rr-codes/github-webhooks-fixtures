@@ -1,6 +1,7 @@
 {
-  "name": "github-webhooks-fixtures",
+  "name": "@rr-codes/github-webhooks-fixtures",
   "version": "0.0.1",
+  "repository": "git://github.com/rr-codes/github-webhooks-fixtures",
   "description": "A helper library to access GitHub webhook event payload fixtures for testing",
   "main": "src/index.ts",
   "scripts": {
